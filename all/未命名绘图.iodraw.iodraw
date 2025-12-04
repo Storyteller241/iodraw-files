@@ -15,6 +15,9 @@
         <mxCell id="AQ601EVhvLzAY6Gjmwrx-1" value="有无连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AQ601EVhvLzAY6Gjmwrx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AQ601EVhvLzAY6Gjmwrx-3" target="AQ601EVhvLzAY6Gjmwrx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AQ601EVhvLzAY6Gjmwrx-3" value="是否已编辑保存节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,6 +32,9 @@
         </mxCell>
         <mxCell id="AQ601EVhvLzAY6Gjmwrx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ601EVhvLzAY6Gjmwrx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
