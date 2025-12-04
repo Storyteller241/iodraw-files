@@ -51,6 +51,9 @@
             <mxPoint x="140" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AQ601EVhvLzAY6Gjmwrx-18" value="导致如果上游节点切换表 但是这个选择组件已经保存过 会使用保存的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="230" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
