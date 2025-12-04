@@ -33,7 +33,7 @@
         <mxCell id="AQ601EVhvLzAY6Gjmwrx-9" value="请链接上游节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AQ601EVhvLzAY6Gjmwrx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AQ601EVhvLzAY6Gjmwrx-10" value="是由保存的节点数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQ601EVhvLzAY6Gjmwrx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
