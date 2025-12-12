@@ -20,10 +20,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-5" value="使用微信生成短链" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="190" y="350" width="130" height="60" as="geometry" />
+          <mxGeometry x="200" y="370" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-10" value="进入小程序" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="610" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-12" value="进入小程序 但是有按钮需要点击跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="145" y="460" width="220" height="30" as="geometry" />
