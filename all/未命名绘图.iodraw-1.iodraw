@@ -16,6 +16,9 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-3" value="进入h5页面" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-5" target="Kj8SAwjn8gdDmWL8SRlS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-5" value="使用微信生成短链" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="20" y="460" width="130" height="50" as="geometry" />
         </mxCell>
@@ -35,9 +38,6 @@
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-5" target="Kj8SAwjn8gdDmWL8SRlS-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
