@@ -49,6 +49,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-23" value="×" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" connectable="0" parent="Kj8SAwjn8gdDmWL8SRlS-22">
+          <mxGeometry x="-0.024" y="-3" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="使用jssdk" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
         </mxCell>
