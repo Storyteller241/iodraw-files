@@ -72,8 +72,11 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-3" target="Kj8SAwjn8gdDmWL8SRlS-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="445" y="518" width="50" height="30" as="geometry" />
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-36" value="&lt;span style=&quot;color: rgb(234, 107, 102); font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;×无法进入，jssdk要微信公众号性质为服务号，否则报错system:access_denied&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.219;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-13" target="Kj8SAwjn8gdDmWL8SRlS-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
