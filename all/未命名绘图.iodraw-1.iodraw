@@ -16,6 +16,9 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-3" target="Kj8SAwjn8gdDmWL8SRlS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-3" target="Kj8SAwjn8gdDmWL8SRlS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-3" value="进入h5页面" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="160" height="60" as="geometry" />
         </mxCell>
@@ -67,7 +70,7 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-24" value="使用开放标签" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-27" value="后端生成小程序码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
