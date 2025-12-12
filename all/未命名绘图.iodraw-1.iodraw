@@ -31,12 +31,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-12" value="进入小程序 但是有按钮需要点击跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-10" y="550" width="220" height="30" as="geometry" />
+          <mxGeometry x="-25" y="555" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-13" target="Kj8SAwjn8gdDmWL8SRlS-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="使用jssdk" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
