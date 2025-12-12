@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-3" value="进入h5页面" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="190" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="190" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-5" target="Kj8SAwjn8gdDmWL8SRlS-12">
           <mxGeometry relative="1" as="geometry" />
