@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-12" value="进入小程序 但是有按钮需要点击跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontStyle=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-12" value="进入小程序 但是有按钮需要点击跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-25" y="520" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.392;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-13">
