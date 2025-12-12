@@ -48,7 +48,7 @@
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="362.98" y="666.01" as="targetPoint" />
+            <mxPoint x="370" y="660" as="targetPoint" />
             <mxPoint x="375.02" y="403.99" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="360.02" y="403.99" />
@@ -87,9 +87,6 @@
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-3" target="Kj8SAwjn8gdDmWL8SRlS-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-35" value="" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
