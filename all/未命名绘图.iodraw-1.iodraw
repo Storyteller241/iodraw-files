@@ -13,7 +13,7 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-3" value="进入h5页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-5" value="使用微信生成短链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
