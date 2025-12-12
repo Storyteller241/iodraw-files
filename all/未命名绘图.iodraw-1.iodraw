@@ -42,18 +42,18 @@
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375.44000000000005" y="722.02" as="targetPoint" />
-            <mxPoint x="387.48" y="460" as="sourcePoint" />
+            <mxPoint x="362.98" y="666.01" as="targetPoint" />
+            <mxPoint x="375.02" y="403.99" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="372.48" y="460" />
-              <mxPoint x="372.48" y="592" />
-              <mxPoint x="375.48" y="592" />
+              <mxPoint x="360.02" y="403.99" />
+              <mxPoint x="360.02" y="535.99" />
+              <mxPoint x="363.02" y="535.99" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-23" value="×无法进入，jssdk要微信公众号性质为服务号，否则报错system:access_denied" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontColor=#EA6B66;labelBorderColor=default;" vertex="1" connectable="0" parent="Kj8SAwjn8gdDmWL8SRlS-22">
           <mxGeometry x="-0.024" y="-3" relative="1" as="geometry">
-            <mxPoint x="336" y="132" as="offset" />
+            <mxPoint x="23" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="使用jssdk" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
