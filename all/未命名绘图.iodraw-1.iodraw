@@ -59,6 +59,11 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="使用jssdk" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="300" y="345" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;dashed=1;" edge="1" parent="1" source="Kj8SAwjn8gdDmWL8SRlS-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-24" value="使用开放标签" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
