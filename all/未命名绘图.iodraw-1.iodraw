@@ -40,14 +40,14 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-12" value="进入小程序 但是有按钮需要点击跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-25" y="520" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.392;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="377.96000000000004" y="692.02" as="targetPoint" />
-            <mxPoint x="385" y="440.01999999999987" as="sourcePoint" />
+            <mxPoint x="375.44000000000005" y="722.02" as="targetPoint" />
+            <mxPoint x="387.48" y="460" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="374.96000000000004" y="440.02" />
-              <mxPoint x="374.96000000000004" y="562.02" />
-              <mxPoint x="377.96000000000004" y="562.02" />
+              <mxPoint x="372.48" y="460" />
+              <mxPoint x="372.48" y="592" />
+              <mxPoint x="375.48" y="592" />
             </Array>
           </mxGeometry>
         </mxCell>
