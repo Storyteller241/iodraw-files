@@ -41,13 +41,7 @@
           <mxGeometry x="-25" y="520" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-13" value="使用jssdk" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#23445D;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
