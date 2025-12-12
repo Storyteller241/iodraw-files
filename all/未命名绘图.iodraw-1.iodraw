@@ -19,6 +19,9 @@
         <mxCell id="Kj8SAwjn8gdDmWL8SRlS-5" value="使用微信生成短链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="350" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kj8SAwjn8gdDmWL8SRlS-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
